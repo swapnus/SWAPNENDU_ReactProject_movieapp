@@ -1,0 +1,19 @@
+.text-xs {
+    font-size: 0.65rem;
+}
+
+.text-sm {
+    font-size: 0.85rem;
+}
+
+.navigation-links a {
+text-decoration: none;
+padding: 0.5rem;
+}
+
+.navigation-links a.active{
+    font-weight: bolder;
+    background-color:black;
+    border-radius: 10px;
+    
+}
